@@ -1,8 +1,9 @@
-# Azure Quota & Usage Insights - Overview
+Azure Quota & Usage Insights - Overview
+![image](https://user-images.githubusercontent.com/96905217/186290898-8bfec30b-2bc5-4b88-8c0c-96dc0222fcc2.png)
 Azure Quota & Usage Insights
-  A Customized, Simple, Inclusive Re-Usable MS Excel Template – Enables users to Proactively review Azure Quota & Usage information for all the Subscriptions across a  specific AAD Tenant
-  The Data is extracted / derived from Azure Management REST API’s, which automatically loads the “Azure Quota & Usage Insights” Re-Usable MS Excel Template with Azure Quota & Usage information for Compute, Disks, Storage & Network Resources and Usage information for VMs & associated Disks, Web Server Farms & Sites
-  To get Started, One can just Download the Azure Quota & Usage Insights Re-usable MS Excel Template…
+A Customized, Simple, Inclusive Re-Usable MS Excel Template – Enables users to Proactively review Azure Quota & Usage information for all the Subscriptions across a specific AAD Tenant
+The Data is extracted / derived from Azure Management REST API’s, which automatically loads the “Azure Quota & Usage Insights” Re-Usable MS Excel Template with Azure Quota & Usage information for Compute, Disks, Storage & Network Resources and Usage information for VMs & associated Disks, Web Server Farms & Sites
+To get Started, One can just Download the Azure Quota & Usage Insights Re-usable MS Excel Template…
 Open the Template, Click ‘Enable Content’ for the ‘Security Warning – External Data Connection have been disabled’
 Click ‘Yes’ for the ‘Security Warning – Do you want to make this file a Trusted Document’
 Ensure the Privacy Levels for ‘Global’ & ‘Current Workbook’ under the ‘Query Options’ (Go to Data  Get Data  Query Options) are set to ‘Ignore the Privacy Levels’ 
@@ -20,5 +21,5 @@ Prerequisites;
 A Customer Doman Account ID (email ID) with defined RBAC (at least a Reader Role) access to all the Subscriptions across a specific AAD Tenant
 Ensure ‘Microsoft.Capacity’ Resource provider is registered for all the Azure Subscriptions
 Ensure access to Microsoft Excel App or Online version
-Further Slides will provide Step wise, One time Setup details with Snapshots….![image](https://user-images.githubusercontent.com/96905217/186290650-9ef19708-33d3-47a8-a87e-c1558c528b03.png)
-
+Further Slides will provide Step wise, One time Setup details with Snapshots….
+![image](https://user-images.githubusercontent.com/96905217/186290918-784cda37-a2a2-4a68-9f26-20e71a21b02c.png)
