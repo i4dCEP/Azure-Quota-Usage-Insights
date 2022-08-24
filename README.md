@@ -20,11 +20,4 @@
   * A Customer Doman Account ID (email ID) with defined RBAC (at least a Reader Role) access to all the Subscriptions across a specific AAD Tenant
   * Ensure ‘Microsoft.Capacity’ Resource provider is registered for all the Azure Subscriptions
   * Ensure access to Microsoft Excel App or Online version
-* Further Step wise, One time Setup details with Snapshots, go to this doc link;
-  * https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2Fmicrosoftapc-my.sharepoint.com%2F%3Ap%3A%2Fg%2Fpersonal%2Fhemacn_microsoft_com%2FEe1T_5m_fQBPlM9SKPCsLEIBrtJ8-aT_p3kpAq6osEVN9g%3Fe%3DkIROM8&data=05%7C01%7Chemacn%40microsoft.com%7C1e9de399141244da53be08da84e6a3b8%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637968423425968157%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=JyvGxI3APlD090mTazQ1vPu7%2B5luMgyZciG8OiiR3qQ%3D&reserved=0
-
-  
-
-
-
-
+* For Further Step wise, One time Setup details with Snapshots, please refer to the attached 'Aure Quota Limit & Usage Insights.ppsx'
