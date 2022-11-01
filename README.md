@@ -1,7 +1,7 @@
 **Azure Quota & Usage Insights - Overview**
 
 * A Customized, Simple, Inclusive Re-Usable MS Excel Template – Enables users to Proactively review Azure Quota & Usage information for all the Subscriptions across a specific AAD Tenant
-* The Data is extracted / derived from Azure Management REST API’s, which automatically loads the “Azure Quota & Usage Insights” Re-Usable MS Excel Template with Azure Quota & Usage information for Compute, Disks, Storage & Network Resources, Usage information for VMs & associated Disks, Web Server Farms & Sites and information of Idle / Orphan Resources like NIC's, Public IP's & Managed Disks
+* The Data is extracted / derived from Azure Management REST API’s, which automatically loads the “Azure Quota & Usage Insights” Re-Usable MS Excel Template with Azure Quota & Usage information for Compute, Disks, Storage & Network Resources, Usage information for VMs & associated Disks, Web Server Farms & Sites and information on Idle / Orphan Resources like NIC's, Public IP's & Managed Disks
 * To get Started, One can just Download the Azure Quota & Usage Insights Re-usable MS Excel Template…
   * Open the Template, Click ‘Enable Content’ for the ‘Security Warning – External Data Connection have been disabled’
   * Click ‘Yes’ for the ‘Security Warning – Do you want to make this file a Trusted Document’
