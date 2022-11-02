@@ -7,8 +7,8 @@
   * Click ‘Yes’ for the ‘Security Warning – Do you want to make this file a Trusted Document’
   * Ensure the Privacy Levels for ‘Global’ & ‘Current Workbook’ under the ‘Query Options’ (Go to Data -> Get Data -> Query Options) are set to ‘Ignore the Privacy Levels’ 
 * Authorize the connection to Azure Management API’s & ‘Refresh All’ for latest Data….
-  * You only need to authorize the connection to Azure Management API’s Once for a specific AAD Tenant;
-    * Ensure the Permissions to “Global permissions’ for ‘https://management.azure.com’ & ‘Data sources in current workbook’ for https://management.azure.com/subscriptions" & "https://management.azure.com/tenants under Data Source Settings (Go to Data -> Get Data -> Data Source Settings) are Cleared
+  * You need to authorize the connection to Azure Management API’s Only Once for a specific AAD Tenant;
+    * Ensure the Permissions to “Global permissions’ for ‘https://management.azure.com’ & ‘Data sources in current workbook’ for https://management.azure.com/subscriptions" & "https://management.azure.com/tenants under Data Source Settings (Go to Data -> Get Data -> Data Source Settings) are Cleared, Save the Template and Open it agaon
     * Click on Data -> Refresh All -> Refresh All -> Select Organizational Account -> Sign in to ‘https://management.azure.com/subscriptions’ at Select level as ‘https://management.azure.com/’ -> Connect
     * On an Information Message prompt ‘There’s already data in [xxxxx]xxxxx. Do you want to replace it?, Click ‘Yes’ 
     * Ensure the Data Refresh is completed, Click on Data -> Refresh All -> Refresh Status or Select PivotTable (B4 / R4C2) -> PivotTable Analyze -> Refresh -> Refresh Status
