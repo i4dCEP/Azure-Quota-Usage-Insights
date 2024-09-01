@@ -20,4 +20,4 @@
   * A Customer Doman Account ID (email ID) with defined RBAC (at least a Reader Role) access to all the Subscriptions across a specific AAD Tenant
   * Ensure ‘Microsoft.Capacity’ Resource provider is registered for all the Azure Subscriptions
   * Ensure access to Microsoft Excel App or Online version
-* For Step wise One time Setup details, along with Snapshots, please refer to the attached 'Aure Quota Limit & Usage Insights-Template-v1.1(GitHub).pdf'
+* For Step wise One time Setup details, along with Snapshots, **please refer to the attached "[Aure Quota Limit & Usage Insights-Template-v1.1(GitHub).pdf](https://github.com/i4dCEP/Azure-Quota-Usage-Insights/blob/main/Aure%20Quota%20Limit%20%26%20Usage%20Insights-Template-v1.1(GitHub).pdf)"**
